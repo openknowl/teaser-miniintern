@@ -1,4 +1,6 @@
-adieuRecoflow
+teaser-miniintern
 =============
 
-Adieu our old friend recoflow. https://story.openknowl.com
+Advertise miniintern service before final launch.
+
+http://miniintern.com/poster
